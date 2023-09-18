@@ -1,0 +1,14 @@
+.contentclass{
+  text-align: justify;
+  padding-top:20px;
+}
+
+.card-with-background {
+  background-image: url("src/assets/Bg.jpg"); /* Replace with your image path */
+  background-size: contain; /* Scale the image to cover the entire card */
+  height: 100vh;
+}
+
+.paragraphClass{
+  color : white;
+}
